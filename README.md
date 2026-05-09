@@ -1,2 +1,0 @@
-# huystephen
-AI automation spaceship
